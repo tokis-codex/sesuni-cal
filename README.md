@@ -2,6 +2,8 @@
 
 **Windows용 계산기 · 세율/기장의무 참고표 · 날짜 및 납부지연가산세 계산**
 
+<img src="https://github.com/tokis-codex/sesuni-cal/blob/main/preview.png">
+
 현재 버전: **v0.5.36** | 개발 언어: **Python** | GUI: **PySide6** | 대상 OS: **Windows**
 
 > **배포 안내:** 이 저장소는 **소스코드와 Windows EXE 빌드 스크립트**를 제공합니다. EXE는 이 저장소에서 직접 빌드해야 합니다. 현재 패키지에는 미리 빌드된 EXE가 들어 있지 않습니다.
