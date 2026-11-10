@@ -8,17 +8,6 @@
 >
 > **유의:** 세금·4대보험·가산세 계산 결과에는 추정치나 간략화한 기준이 포함됩니다. 실제 신고/납부/급여 지급에 사용하기 전에 관계 법령과 공식 기관 자료를 확인하세요.
 
-## 화면 미리보기
-
-아래 이미지는 **v0.5.32에서 실제 촬영한 화면**입니다. v0.5.36에서도 기본 화면 구성은 유지되지만, 일부 계산 결과·동작은 변경되었습니다.
-
-| 세율 및 보험료 | 기장의무 | 양도·상속·증여 |
-|:--:|:--:|:--:|
-| ![세율 화면](docs/screenshots/01_rates.png) | ![기장의무 화면](docs/screenshots/02_bookkeeping.png) | ![양도상증 화면](docs/screenshots/03_capital_gift_inheritance.png) |
-
-| 날짜계산 | 계산기록 |
-|:--:|:--:|
-| ![날짜계산 화면](docs/screenshots/04_date_penalty.png) | ![계산기록 화면](docs/screenshots/05_history.png) |
 
 ## 주요 기능
 
